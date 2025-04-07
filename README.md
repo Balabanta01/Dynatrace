@@ -20,7 +20,7 @@
 **Minimize false positives and negatives:** Leading to more relevant and actionable alerts.<br>
 **Adapt to dynamic changes:** Automatically adjusting thresholds as application behavior evolves.<br>
 
-**Example Scenario (Using the Data from Your Image):**
+**Example Scenario (Using the Data from the Image):**
 ![image](https://github.com/user-attachments/assets/6178f064-ecbc-4ed0-b5d9-d6f3525092c0)
 
 "Consider a service, abc-strapi-web, exhibiting the following performance metrics:<br>
